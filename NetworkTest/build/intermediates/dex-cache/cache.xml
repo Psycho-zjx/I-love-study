@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\。\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Android\project\NetworkTest\app\build\intermediates\pre-dexed\debug\gson-2.7_baa1976a9d3abbdd612128d242c187cf92cb7459.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\。\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.9.2\5e3bda828a80c7a21dfbe2308d1755759c2fd7b4\jsoup-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5e3bda828a80c7a21dfbe2308d1755759c2fd7b4">
+        <dex dex="D:\Android\project\NetworkTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.9.2_1c7e9c4d46e7e447cd7c5ec0fb0b0afb12eae5f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\。\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Android\project\NetworkTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_baa1976a9d3abbdd612128d242c187cf92cb7459\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\。\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\Android\project\NetworkTest\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_cccf0b92025593069a4b9495186dc417acef34f5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\。\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\Android\project\NetworkTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_cccf0b92025593069a4b9495186dc417acef34f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\NetworkTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0c2bff57ccf80b06989fd28097818677f65d4c67">
+        <dex dex="D:\Android\project\NetworkTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_204ceec315043d2a71d1caf3a9a634fe6e5ee593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\NetworkTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\project\NetworkTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ee690a7afef43d7008d3e43bd8d566f76c0080ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\。\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Android\project\NetworkTest\app\build\intermediates\pre-dexed\debug\okio-1.9.0_693bcaeb5ff6b91d63f0d6b854c02777992c459b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\。\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Android\project\NetworkTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_693bcaeb5ff6b91d63f0d6b854c02777992c459b\classes.dex" />
+    </item>
+
+</items>

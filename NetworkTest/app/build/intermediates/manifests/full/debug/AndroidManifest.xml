@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.networktest"
+    android:versionCode="1"
+    android:versionName="xuexi.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/xuexi"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/xuexi"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.networktest.NetworkTest"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.networktest.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.networktest.Main2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.networktest.Scores_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.networktest.Lnscores"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>
