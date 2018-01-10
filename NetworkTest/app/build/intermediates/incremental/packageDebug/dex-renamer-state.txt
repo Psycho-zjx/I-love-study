@@ -1,7 +1,0 @@
-#Tue Jan 02 15:19:43 CST 2018
-base.0=D\:\\Android\\project\\NetworkTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ee690a7afef43d7008d3e43bd8d566f76c0080ad
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=D\:\\Android\\project\\NetworkTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_204ceec315043d2a71d1caf3a9a634fe6e5ee593\\classes.dex
-base.1=D\:\\Android\\project\\NetworkTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_204ceec315043d2a71d1caf3a9a634fe6e5ee593
-file.0=D\:\\Android\\project\\NetworkTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ee690a7afef43d7008d3e43bd8d566f76c0080ad\\classes.dex
